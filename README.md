@@ -1,13 +1,7 @@
-# STEWARO Account
+# STEWARO Account — reserved repository
 
-Dedizierte GitHub-Pages-Oberfläche für den STEWARO-Zugang.
+Canonical source: `denizw030/senioren-concierge-berlin`.
 
-## Zielarchitektur
+Deployment and hosting authority: **AWS** using CodeConnections, CodePipeline, CodeBuild, S3 and CloudFront.
 
-- später: `account.stewaro.com`
-- eigener Zugang: STEWARO / FIDEL
-- Einrichtung für andere Personen: Weiterleitung zu MyParentGuard
-- Source: `denizw030/senioren-concierge-berlin`
-- Branch: `feature/stewaro-shared-base-brand-shell-20260927`
-
-Dieses Repository ist nur Deployment-/Hosting-Surface. Es enthält bewusst **keine unabhängige Account-Logik**.
+This repository is reserved for naming/organization only and is not used for deployment.
